@@ -30,7 +30,6 @@
 - [stack-exchange](npmjs.com/package/stack-exchange)
 - [ape-cricket](https://www.npmjs.com/package/ape-cricket)
 - [cricapi](https://github.com/KarthikGangadhar/CricApi)
-- [Speedtest-Heroku](https://github.com/Federation-21/Speedtest-Heroku)
 
 ### Skills 👨‍💻
 

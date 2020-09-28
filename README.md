@@ -22,8 +22,8 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/karthikgagandhar/&title=Profile%20Views)
 
 - 🔭 I’m currently working for [Rainbow Design Services, Inc](http://info.rainbowdesign.net/)
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Python and NodeJS Projects
+- 🌱 I’m currently persuing mini degree in MAchine Learning Enginnering.
+- 👯 I’m Actively looking for Data Analyst and Machine Learing Engineer Roles.
 - 💬 Ask me about anything.
 - 📫 How to reach me: karthikg1643@gmail.com
 - Published Projects by Me are below

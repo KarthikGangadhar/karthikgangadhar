@@ -49,3 +49,7 @@
 ### Stats ⚡️
 
 ![Github Stats](https://readmestats.vercel.app/api?username=karthikgangadhar&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
+
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgangadhar&hide=jupyter%20notebook)](https://github.com/karthikgangadhar/github-readme-stats)
+<br>

@@ -21,7 +21,7 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/karthikgagandhar/&title=Profile%20Views)
 
-- 🔭 I’m currently working for [Rainbow Design Services, Inc](http://info.rainbowdesign.net/)
+- 🔭 I’m currently working for [Microsoft](https://www.microsoft.com/en-us/?ql=4)
 - 🌱 I’m currently persuing mini degree in Machine Learning Enginnering from Udacity.
 - 👯 I’m Actively looking for Data Analyst and Machine Learing Engineer Roles.
 - 💬 Ask me about anything.
